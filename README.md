@@ -1,4 +1,4 @@
-# Flatten
+# Fogu
 
 ## Screenshots
 
@@ -10,4 +10,4 @@ Feel free to report broken UI.
 
 ## Credits
 
-Theme created by qwersteve07
+Theme created by qwersteve07 converted me ;3
