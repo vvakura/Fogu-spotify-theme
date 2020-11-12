@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![Flatten](flatten.png)
+![Flatten](pic1.png)
 
 ## More
 This theme is based on original Spotify theme.
